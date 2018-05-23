@@ -64,41 +64,41 @@ The analysis and results give very useful info about change in women’s prefere
 ### Explain the results in the most technical way. (technical, data-scientist audience) ###
 
 •	Women proportion dominate in the following degree programs:
-  o	Psychology
-  o	Foreign Languages
-  o	English
-  o	Health Professions
-  o	Public Administration
-  o	Education
+(1)	Psychology
+(2) Foreign Languages
+(3)	English
+(4)	Health Professions
+(5)	Public Administration
+(6)	Education
   
 •	Men proportion dominate in the following degree programs:
-  o	Computer Science
-  o	Engineering
+(1)Computer Science
+(2)	Engineering
 
 •	Following degrees programs indicate significant changes in gender proportion with increased women students over the years:
-  o	Psychology
-  o	Biology
-  o	Physical Sciences
-  o	Communication and Journalism
-  o	Agriculture
-  o	Business
-  o	Architecture
+(1)	Psychology
+(2)	Biology
+(3)	Physical Sciences
+(4)	Communication and Journalism
+(5)	Agriculture
+(6)	Business
+(7)	Architecture
 
 •	Men and Women interest remain stable in the following degrees over the years:
-  o	Math and Statistics
-  o	Engineering
-  o	Foreign Languages
-  o	English
-  o	Art and Performance
-  o	Social Sciences and History
-  o	Health Professions
-  o	Public Administration
-  o	Education
+(1)	Math and Statistics
+(2)	Engineering
+(3)	Foreign Languages
+(4)	English
+(5)	Art and Performance
+(6)	Social Sciences and History
+(7)	Health Professions
+(8)	Public Administration
+(9)	Education
  
 •	The pictorial results can be easy to visualize for the management and technical audience, if we:
-  o	Remove excessive axis labels, 
-  o	Show data label once at the top of the diagram, and
-  o	Provide major data demarcation line for the target feature.
+(1)	Remove excessive axis labels, 
+(2)	Show data label once at the top of the diagram, and
+(3) major data demarcation line for the target feature.
   
 ### Conclusion ###
 >> What we learn from this outcome. (non-technical audience)
