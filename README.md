@@ -14,8 +14,8 @@ Below is the list of questions that we are looking to answer as a final outcome 
 Why do we need to know the gender gap across college degrees? What benefit we could derive by visualizing the gender gaps in 
 various degree programs? Below are the goals we can enlist: 
   •	This information will give us an idea about the current market trends: i.e. 
-    o	To understand the gender specific choice across various course degrees
-    o	To identify the courses with severe gender gap that needs to be addressed
+    (1)	To understand the gender specific choice across various course degrees
+    (2)	To identify the courses with severe gender gap that needs to be addressed
   •	This will help us to understand the gender wise market segmentation for various college degrees. 
   
 ### Data Source ###
@@ -49,11 +49,10 @@ classified in to three broad categories: ‘STEM’, ‘Library Arts’ and ‘O
  
 •	Plot line diagram to see how gender participation changes over the years 
  
-•	Carry out series of actions to make the diagrams aesthetically clean and more presentable as:  
- 
-  o	Remove X-axis labels for all top and intermediate plots
-  o	Restrict Y-axis labels for limiting values only
-  o	Insert separation lines at 50% of Y-axis
+•	Carry out series of actions to make the diagrams aesthetically clean and more presentable as:
+(1)	Remove X-axis labels for all top and intermediate plots
+(2)	Restrict Y-axis labels for limiting values only
+(3)	Insert separation lines at 50% of Y-axis
  
 •	Finally, export the tabular chart from Jupyter Book to a file 
 
