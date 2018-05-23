@@ -4,18 +4,23 @@ This repository contains project that visualizes the gender gap in college degre
 ### Objectives ###
 
 Below is the list of questions that we are looking to answer as a final outcome of this project:
-
-  •	How to visualize the gender gap across various college degrees?
-  •	How to export the charts/diagram/graphs as an image file from the Jupyter notebooks?
-  •	How to clean the pictorial output and make it aesthetic for the management presentation?
+    
+•	How to visualize the gender gap across various college degrees?
+         
+•	How to export the charts/diagram/graphs as an image file from the Jupyter notebooks?
+    
+•	How to clean the pictorial output and make it aesthetic for the management presentation?
 
 ### Goal Significance ### 
 
 Why do we need to know the gender gap across college degrees? What benefit we could derive by visualizing the gender gaps in 
 various degree programs? Below are the goals we can enlist: 
-  •	This information will give us an idea about the current market trends: i.e. 
-    (1)	To understand the gender specific choice across various course degrees
-    (2)	To identify the courses with severe gender gap that needs to be addressed
+
+•	This information will give us an idea about the current market trends: i.e. 
+   
+  (1)	To understand the gender specific choice across various course degrees
+  (2)	To identify the courses with severe gender gap that needs to be addressed
+    
   •	This will help us to understand the gender wise market segmentation for various college degrees. 
   
 ### Data Source ###
