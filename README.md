@@ -38,15 +38,13 @@ classified in to three broad categories: ‘STEM’, ‘Library Arts’ and ‘O
 
 ### Visualize the Results ###
 
-![Gender proportion across college degrees in compact tabular chart](https://github.com/mitrandatastat/gendergap/images/output_3_0.png)
+![Gender proportion across college degrees in compact tabular chart](https://github.com/mitrandatastat/gendergap/tree/master/images/output_3_0.png?raw=true)
 
-![Alt text](https://github.com/mitrandatastat/gendergap/images/output_5_0.png?raw=true)
+![The compact tabular chart with clean X-axis labels](https://github.com/mitrandatastat/gendergap/tree/master/images/output_5_0.png?raw=true)
 
-![Alt text](https://github.com/mitrandatastat/gendergap/images/output_7_0.png?raw=true)
+![The compact tabular chart with Limiting Values of Y-axis](https://github.com/mitrandatastat/gendergap/tree/master/images/output_7_0.png?raw=true)
 
-![Alt text](https://github.com/mitrandatastat/gendergap/images/output_9_0.png?raw=true)
-
-![Alt text](https://github.com/mitrandatastat/gendergap/images/output_11_0.png?raw=true)
+![The compact tabular chart with 50% Demarcation Line](https://github.com/mitrandatastat/gendergap/tree/master/images/output_9_0.png?raw=true)
 
 ### Highlights of the code ###
 
