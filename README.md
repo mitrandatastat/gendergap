@@ -36,6 +36,18 @@ The data is available in the .csv file format. File name: "percent-bachelors-deg
 The dataset shows proportion of women across 17 different college degrees from 1970 thru 2011. The degrees can be broadly 
 classified in to three broad categories: ‘STEM’, ‘Library Arts’ and ‘Other’.
 
+### Visualize the Results ###
+
+![Gender proportion across college degrees in compact tabular chart](https://github.com/mitrandatastat/gendergap/images/output_3_0.png)
+
+![Alt text](https://github.com/mitrandatastat/gendergap/images/output_5_0.png?raw=true)
+
+![Alt text](https://github.com/mitrandatastat/gendergap/images/output_7_0.png?raw=true)
+
+![Alt text](https://github.com/mitrandatastat/gendergap/images/output_9_0.png?raw=true)
+
+![Alt text](https://github.com/mitrandatastat/gendergap/images/output_11_0.png?raw=true)
+
 ### Highlights of the code ###
 
 >>> Software packages used:  
