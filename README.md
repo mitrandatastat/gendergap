@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 gendergap
 This repository contains project that visualizes the gender gap in college degrees.
 
@@ -220,5 +219,3 @@ By this study, we can:
 #### Technical significance of the results. (technical, data-science audience)
    
 Please refer to the technical results for the data science audience above. 
-
->>>>>>> c67abdb666484870659ceed5db1f5b1b5073bbf8
