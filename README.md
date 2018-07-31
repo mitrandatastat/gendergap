@@ -20,7 +20,7 @@ Why do we need to know the gender gap across college degrees? What benefit we co
 
 ### Technical Writeup ###
 
-Please refer to the approprite portion of the portfolio section to get the detailed project write up. 
+Please refer to the approprite portion of the portfolio section to get the [**Detailed Project Writeup**](https://portfolio.mshah.info/gender-gap-in-college-degrees/). 
 
 ### Code Explanation ###
 
